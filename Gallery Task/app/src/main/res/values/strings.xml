@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">Image Gallery</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
-    <string name="unable_load">Unable to load images</string>
-    <string name="empty_data">No results found for this query</string>
-    <string name="image_placeholder">image placeholder</string>
-</resources>
