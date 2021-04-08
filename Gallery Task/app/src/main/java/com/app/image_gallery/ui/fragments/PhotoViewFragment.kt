@@ -96,7 +96,6 @@ class PhotoViewFragment : Fragment(R.layout.fragment_photo_view) {
         }
 
         binding.clapDownload.setOnClickListener {
-           // ImageUtils.downloadImage(binding, photo, requireContext())
         }
     }
 }
