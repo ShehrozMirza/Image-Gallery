@@ -1,5 +1,5 @@
 # Image-Gallery
-Gallery task by Airlift
+Gallery task by Turing
 
 Jetpack Components
 -Hilt.
